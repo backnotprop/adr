@@ -15,7 +15,7 @@ $adr synthesize     # ... agent will orient towards implementation.
 $adr spec           # ... agent will craft into plan.
 $adr                # ... agent will write formal decision record.
 $adr intent         # ... agent will write a clear intent that you can feed into something like `/goal`.
-                    # ... you copy the intent into /goal, or just toell it to implement
+                    # ... you copy the intent into /goal or workflow, or just tell agent to implement it
 $adr self-review    # ... agent will verify its previous work with a systematic review & adr alignment
 ```
 
