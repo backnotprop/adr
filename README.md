@@ -17,5 +17,4 @@ $adr                # ... agent will write formal decision record.
 $adr intent         # (Optional) ... agent will write a very clear intent that you can copy and feed into something like `/goal`.
 $adr implement      # (Optional) ... agent will just implement intent.
 $adr self-review    # ... agent will verify its previous work with a simple review.
-$adr recap          # ... agent will write a recap document.
 ```
