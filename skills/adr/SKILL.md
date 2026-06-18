@@ -1,6 +1,6 @@
 ---
 name: adr
-description: Explicit-only router for ADR workflow commands. Use when, and only when, the user invokes $adr, adr, ADR, or an adr command such as adr research, adr synthesize, adr spec, adr adr, adr intent, adr implement, adr self-review, or adr recap. Bare adr, $adr, or ADR means create the formal ADR unless the request clearly points to another route. Do not invoke passively or ad hoc for general ADR discussion.
+description: Explicit-only router for ADR workflow commands. A dead simple engineering skill framework that works reliably.
 disable-model-invocation: true
 ---
 
