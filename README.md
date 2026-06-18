@@ -8,19 +8,6 @@ Explicit ADR (architecture decision record) workflow router skill.
 npx skills add backnotprop/adr
 ```
 
-List available skills first:
-
-```bash
-npx skills add backnotprop/adr --list
-```
-
-Local development install:
-
-```bash
-npx skills add . --list
-npx skills add . -y
-```
-
 ## Skill
 ```bash
 $adr research       $USER{this new idea against the code}
