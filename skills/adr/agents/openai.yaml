@@ -1,0 +1,6 @@
+interface:
+  display_name: "ADR"
+  short_description: "Run explicit ADR workflow commands."
+  default_prompt: "Use $adr to run an explicit ADR workflow command."
+policy:
+  allow_implicit_invocation: false

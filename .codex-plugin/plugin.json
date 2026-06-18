@@ -1,0 +1,24 @@
+{
+  "name": "adr",
+  "version": "0.1.0",
+  "description": "Explicit ADR workflow router for research, specs, decisions, review, and recaps.",
+  "author": {
+    "name": "backnotprop"
+  },
+  "homepage": "https://github.com/backnotprop/adr",
+  "repository": "https://github.com/backnotprop/adr",
+  "license": "UNLICENSED",
+  "keywords": ["adr", "architecture-decisions", "workflow", "skills"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "ADR",
+    "shortDescription": "Explicit ADR workflow router",
+    "longDescription": "A single explicit skill command for local ADR workflow artifacts: research spikes, synthesis, specs, formal ADRs, intent, implementation, self-review, and recaps.",
+    "developerName": "backnotprop",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Use $adr to run an explicit ADR workflow command."
+    ]
+  }
+}

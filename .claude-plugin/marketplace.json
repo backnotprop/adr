@@ -1,0 +1,22 @@
+{
+  "name": "adr-marketplace",
+  "owner": {
+    "name": "backnotprop"
+  },
+  "description": "Explicit ADR workflow router skill.",
+  "plugins": [
+    {
+      "name": "adr",
+      "source": {
+        "source": "github",
+        "repo": "backnotprop/adr"
+      },
+      "description": "Explicit ADR workflow router skill.",
+      "homepage": "https://github.com/backnotprop/adr",
+      "repository": "https://github.com/backnotprop/adr",
+      "license": "UNLICENSED",
+      "keywords": ["adr", "architecture-decisions", "workflow", "skills"],
+      "category": "productivity"
+    }
+  ]
+}

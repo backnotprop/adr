@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "ADR Workflow",
+      "description": "Explicit ADR workflow router commands.",
+      "skills": ["adr"]
+    }
+  ]
+}
