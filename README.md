@@ -1,6 +1,6 @@
 # ADR
 
-Explicit ADR workflow router skill.
+Explicit ADR (architecture decision record) workflow router skill.
 
 ## Install
 
