@@ -22,5 +22,13 @@ npx skills add . -y
 ```
 
 ## Skill
-
-- `adr`: explicit-only router for `adr research`, `adr synthesize`, `adr spec`, `adr adr`, `adr intent`, `adr implement`, `adr self-review`, and `adr recap`.
+```bash
+$adr research       $USER{this new idea against the code}
+$adr synthesize     # ... agent will orient towards implementation.
+$adr spec           # ... agent will craft into plan.
+$adr                # ... agent will write formal decision record.
+$adr intent         # (Optional) ... agent will write a very clear intent that you can copy and feed into something like `/goal`.
+$adr implement      # (Optional) ... agent will just implement intent.
+$adr self-review    # ... agent will verify its previous work with a simple review.
+$adr recap          # ... agent will write a recap document.
+```
