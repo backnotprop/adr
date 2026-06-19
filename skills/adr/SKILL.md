@@ -102,7 +102,7 @@ Use the previously stated intent. If there is no clear intent, state the intent 
 
 Then implement.
 
-## `adr self-review`
+## `adr review`
 
 Conduct a self-review of your code. Actively look for issues: bugs, duplications, oversights, edge cases, and anything that feels off. Trace through the logic systematically and flag anything that needs to be fixed or improved before moving on.
 
