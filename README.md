@@ -32,3 +32,10 @@ $adr self-review    # ... agent will verify its previous work
 ```
 
 Use any of these with `goal/` or `dynamic workflows` the more extensive the efforts are.
+
+There are no rules. You can skip, hop, merge, and do whatever:
+```bash
+$adr synthesize/spec Together to shape an implementation for us.
+```
+
+That's the benefit of a single skill file & simple adaptive workflows.
