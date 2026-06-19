@@ -16,7 +16,9 @@ $adr                # adr doc gets created
 ```
 <br/>
 
-In a more streamlined approach:
+In a more streamlined approach:<br/>
+_Use any of these with `goal/` or `dynamic workflows` the more extensive the efforts are._
+
 ```bash
 $adr research       $USER{this new idea against the code}
 $adr synthesize     # ... agent will orient towards implementation.
@@ -31,11 +33,10 @@ $adr self-review    # ... agent will verify its previous work
                     # ... with a systematic review & adr alignment
 ```
 
-Use any of these with `goal/` or `dynamic workflows` the more extensive the efforts are.
 
-There are no rules. You can skip, hop, merge, and do whatever:
+
+There are no rules. You can skip, hop, merge, and do whatever:<br/>
+_The benefit of a single skill file & simple adaptive workflows._
 ```bash
 $adr synthesize/spec Together to shape an implementation for us.
 ```
-
-That's the benefit of a single skill file & simple adaptive workflows.
