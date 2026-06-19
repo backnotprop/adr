@@ -22,6 +22,8 @@ $adr research       $USER{this new idea against the code}
 $adr synthesize     # ... agent will orient towards implementation.
 $adr spec           # ... agent will craft into plan.
 $adr                # ... agent will write formal decision record.
+                    # ... tell the agent to implement it after
+                    # or:
 $adr intent         # ... agent will write a clear intent
                     # ... that you can feed into something like `/goal`.
                     # ... you copy the intent into /goal or workflow,
