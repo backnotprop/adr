@@ -28,7 +28,7 @@ $adr                # ... agent will write formal decision record.
 $adr intent         # ... agent will output a clear intent
                     # ... that you can feed into something like `/goal`.
                     # ... or prompt into a dynamic workflow,
-$adr self-review    # ... agent will verify its previous work
+$adr review         # ... agent will verify its previous work
                     # ... with a systematic review & adr alignment
 ```
 
