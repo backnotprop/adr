@@ -24,10 +24,9 @@ $adr spec           # ... agent will craft into plan.
 $adr                # ... agent will write formal decision record.
                     # ... tell the agent to implement it after
                     # or:
-$adr intent         # ... agent will write a clear intent
+$adr intent         # ... agent will output a clear intent
                     # ... that you can feed into something like `/goal`.
-                    # ... you copy the intent into /goal or workflow,
-                    # ... or just tell agent to implement it
+                    # ... or prompt into a dynamic workflow,
 $adr self-review    # ... agent will verify its previous work with a systematic review & adr alignment
 ```
 
