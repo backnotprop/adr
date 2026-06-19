@@ -9,12 +9,14 @@ npx skills add backnotprop/adr
 ```
 
 ## Skill
-In your own custom workflow, when all you want is an ADR for whatever you've decided:
+In your own personal workflow, <br/>
+when all you want is an ADR for whatever you've decided:
 ```bash
-$adr                 # adr doc gets created
+$adr                # adr doc gets created
 ```
+<br/>
 
-In a streamlined approach:
+In a more streamlined approach:
 ```bash
 $adr research       $USER{this new idea against the code}
 $adr synthesize     # ... agent will orient towards implementation.
