@@ -94,7 +94,8 @@ Accepted
 
 State the intent of what was specified.
 
-Write the what, why, and how in paragraph format.
+Write the what, why, and how in paragraph format. Start the intent with an action verb.
+If there was any form of research, spike, synthesis or spec documentation, as well as an adr, append those paths to the end of the intent.
 
 ## `adr implement`
 
