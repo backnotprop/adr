@@ -90,6 +90,12 @@ Accepted
 {What changes because of this decision.}
 ```
 
+## `adr preflight`
+
+Go evaluate the relevant files, preload (read) the right context (files, specs) you would want to validate againt adr assumptions before execution.
+Let the user know if things look different or  if anything needs to change. 
+Otherwise greenlight the adr.
+
 ## `adr intent`
 
 State the intent of what was specified.
